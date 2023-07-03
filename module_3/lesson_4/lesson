@@ -1,0 +1,71 @@
+1)
+    1) https://leetcode.com/problems/running-sum-of-1d-array/
+
+Mavzular :
+    date -> year-month-day,
+    time -> hour:min:sec.millsec
+    sqlite
+        query
+        connect with python
+
+
+
+amaliy qiladigan ish :
+
+    1)      234352   secund -> date
+            date dan hozirgi vaqt orasida nech kun farq borligini topamiz
+
+    1)      product add
+            product delete
+            product update
+            product show
+
+Uyga vazifa:
+
+    leetcode     -> 3 ta
+    # algo         -> string hammasi
+    Kutibxona    project
+        ADMIN
+            book CRUD
+            category CRUD
+
+        READER
+            books
+            settings
+            logout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

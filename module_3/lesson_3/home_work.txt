@@ -1,0 +1,10 @@
+coding bat :   https://codingbat.com/python
+    string -1 , 2
+    list - 1, 2
+
+leetcode :
+    https://leetcode.com/tag/string/
+          1108 - 709
+
+
+

@@ -1,0 +1,17 @@
+1) sudo apt-get install git -> terminal
+2) git hub.com account create
+3) plugin install GitToolBox  -> pycharm
+4) pycharm + hit hub  -> token
+5)
+    git config --global user.name "dilshodev3234"
+    git config --global user.email "Adilshod3234@gmail.com"
+
+    ssh -T git@github.com
+
+
+    ssh-keygen -t rsa -b 4096 -C "Adilshod3234@gmail.com"
+
+
+    cat ~/.ssh/id_rsa.pub
+
+6) test qilamiz

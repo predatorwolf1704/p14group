@@ -1,0 +1,58 @@
+1)
+    1) Counter
+
+Mavzular :
+    bcrypt
+    email
+    http protocol
+    request
+
+
+amaliy qiladigan ish :
+
+    1) https://jsonplaceholder.typicode.com/
+
+Uyga vazifa:
+    Counter() -> ruchnoy qo'lda yozamiz
+    leetcode -> 1816 -> 20 ta paska
+    https://jsonplaceholder.typicode.com/
+        6 ta bulimga request zapros yuborilsin
+        va bazaga saqlanilsin (sqlite3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
